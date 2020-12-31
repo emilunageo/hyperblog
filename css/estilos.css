@@ -1,3 +1,8 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
 body {
     color: #333;
     font-family: Arial, Helvetica, sans-serif;
@@ -31,4 +36,25 @@ main .info-header #autor {
 
 main .info-principal img {
     max-width: 100%;
+}
+
+footer {
+    width: 100%;
+    background-color: #161616;
+    padding: 1em;
+}
+
+footer .container ul li {
+    list-style: none;
+    padding: .5em 0;
+}
+
+footer .container ul li a {
+    color: #cecece;
+    text-decoration: none;
+}
+
+footer .container ul li a:hover {
+    color: #ffffff;
+    text-decoration: underline;
 }
