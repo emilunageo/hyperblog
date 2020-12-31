@@ -18,3 +18,17 @@ header  h1 {
 header hr {
     border: 1px solid #cecece;
 }
+
+main .info-header {
+    display: flex;
+    margin-bottom: 30px;
+    color: #8b8b8b;
+}
+
+main .info-header #autor {
+    margin-right: 1em;
+}
+
+main .info-principal img {
+    max-width: 100%;
+}
