@@ -5,3 +5,4 @@ Hola qué tal estoy arendiendo Git y Github
 
 * Incluyendo muchas cosas AJUAA!!!
 * Incluye ejemplos en Windos, Linux y Mac
+* Disponible para todas las edades
